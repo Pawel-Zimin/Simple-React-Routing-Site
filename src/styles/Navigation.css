@@ -1,0 +1,39 @@
+ul{
+    list-style: none;
+    padding: 10px;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    margin: 4px;
+    padding: 4px;
+    transition: 0.3s;
+}
+
+a:hover{
+    transform: translateX(20px);
+}
+
+a.active{
+    border-left: 6px solid black;
+    transform: translateX(0);
+}
+
+li:nth-child(1) a.active{
+    border-color: green;
+}
+
+li:nth-child(2) a.active{
+    border-color: blue;
+}
+
+li:nth-child(3) a.active{
+    border-color: orange;
+}
+
+li:nth-child(4) a.active{
+    border-color: crimson;
+}

@@ -1,0 +1,16 @@
+article{
+    margin: 30px auto;
+    padding: 20px 0;
+}
+
+span{
+    display: block;
+    padding: 6px 0;
+    font-size: 18px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+p{
+    font-size: 16px;
+}

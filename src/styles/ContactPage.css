@@ -1,0 +1,21 @@
+textarea{
+    width: 90%;
+    height: 300px;
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+button{
+    display: block;
+    font-size: 20px;
+    padding: 6px;
+    background-color: skyblue;
+    border: 2px solid black;
+    transition: 0.3s;
+}
+
+button:hover{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
