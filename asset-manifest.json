@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Simple-React-Routing-Site/static/css/main.0e2f4e67.chunk.css",
+    "main.js": "/Simple-React-Routing-Site/static/js/main.0fe39760.chunk.js",
+    "main.js.map": "/Simple-React-Routing-Site/static/js/main.0fe39760.chunk.js.map",
+    "runtime-main.js": "/Simple-React-Routing-Site/static/js/runtime-main.8055459f.js",
+    "runtime-main.js.map": "/Simple-React-Routing-Site/static/js/runtime-main.8055459f.js.map",
+    "static/js/2.669c949d.chunk.js": "/Simple-React-Routing-Site/static/js/2.669c949d.chunk.js",
+    "static/js/2.669c949d.chunk.js.map": "/Simple-React-Routing-Site/static/js/2.669c949d.chunk.js.map",
+    "index.html": "/Simple-React-Routing-Site/index.html",
+    "precache-manifest.a5fc1cffe5d0c260a53811660e5416fa.js": "/Simple-React-Routing-Site/precache-manifest.a5fc1cffe5d0c260a53811660e5416fa.js",
+    "service-worker.js": "/Simple-React-Routing-Site/service-worker.js",
+    "static/css/main.0e2f4e67.chunk.css.map": "/Simple-React-Routing-Site/static/css/main.0e2f4e67.chunk.css.map",
+    "static/js/2.669c949d.chunk.js.LICENSE.txt": "/Simple-React-Routing-Site/static/js/2.669c949d.chunk.js.LICENSE.txt",
+    "static/media/header1.jpg": "/Simple-React-Routing-Site/static/media/header1.70e6670e.jpg",
+    "static/media/header2.jpg": "/Simple-React-Routing-Site/static/media/header2.33eca35f.jpg",
+    "static/media/header3.jpg": "/Simple-React-Routing-Site/static/media/header3.d9d36b65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8055459f.js",
+    "static/js/2.669c949d.chunk.js",
+    "static/css/main.0e2f4e67.chunk.css",
+    "static/js/main.0fe39760.chunk.js"
+  ]
+}
